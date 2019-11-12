@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+
+    <!-- Main Menu -->
+    <string name="title">4 Pics 1 Word</string>
+    <string name="play">PLAY GAME</string>
+    <string name="quit">QUIT</string>
+
+    <!-- Difficulty Selection -->
+    <string name="selection">Select Difficulty:</string>
+    <string name="easy">EASY</string>
+    <string name="medium">MEDIUM</string>
+    <string name="hard">HARD</string>
+
+    <!-- Level Selection -->
+    <string name="easy_level">Easy Level</string>
+    <string name="medium_level">Medium Level</string>
+    <string name="hard_level">Hard Level</string>
+
+    <!-- Level -->
+    <string name="check">CHECK ANSWER</string>
+    <string name="enter">Enter Answer Here</string>
+
+    <!-- Finish -->
+    <string name="finish">CONGRATULATIONS</string>
+    <string name="back">BACK</string>
+
+    <!-- easy questions hints -->
+    <string name="easy_level_hint_1">a**ma*</string>
+    <string name="easy_level_hint_2">c*r</string>
+    <string name="easy_level_hint_3">cl**h*s</string>
+    <string name="easy_level_hint_4">f**i*y</string>
+    <string name="easy_level_hint_5">*lo*e*</string>
+    <string name="easy_level_hint_6">*c**o*</string>
+    <string name="easy_level_hint_7">s*or*</string>
+    <string name="easy_level_hint_8">*oy</string>
+    <string name="easy_level_hint_9">t**e</string>
+    <string name="easy_level_hint_10">wa*e*</string>
+
+    <!-- easy questions answers -->
+    <string name="easy_level_answer_1">animal</string>
+    <string name="easy_level_answer_2">car</string>
+    <string name="easy_level_answer_3">clothes</string>
+    <string name="easy_level_answer_4">family</string>
+    <string name="easy_level_answer_5">flower</string>
+    <string name="easy_level_answer_6">school</string>
+    <string name="easy_level_answer_7">sport</string>
+    <string name="easy_level_answer_8">toy</string>
+    <string name="easy_level_answer_9">tree</string>
+    <string name="easy_level_answer_10">water</string>
+
+    <!-- medium question hints -->
+    <string name="medium_level_hint_1">s**ke</string>
+    <string name="medium_level_hint_2">a**</string>
+    <string name="medium_level_hint_3">**t</string>
+    <string name="medium_level_hint_4">e**le</string>
+    <string name="medium_level_hint_5">*le**a**</string>
+    <string name="medium_level_hint_6">s*a*</string>
+    <string name="medium_level_hint_7">*io*</string>
+    <string name="medium_level_hint_8">p**coc*</string>
+    <string name="medium_level_hint_9">*ea**on</string>
+    <string name="medium_level_hint_10">s*id**</string>
+
+    <!-- medium question answers -->
+    <string name="medium_level_answer_1">snake</string>
+    <string name="medium_level_answer_2">ant</string>
+    <string name="medium_level_answer_3">cat</string>
+    <string name="medium_level_answer_4">eagle</string>
+    <string name="medium_level_answer_5">elephant</string>
+    <string name="medium_level_answer_6">swan</string>
+    <string name="medium_level_answer_7">lion</string>
+    <string name="medium_level_answer_8">peacock</string>
+    <string name="medium_level_answer_9">sealion</string>
+    <string name="medium_level_answer_10">spider</string>
+
+    <!-- hard question hints -->
+    <string name="hard_level_hint_1">*ap*n</string>
+    <string name="hard_level_hint_2">b**zi*</string>
+    <string name="hard_level_hint_3">*hi*a</string>
+    <string name="hard_level_hint_4">h*wa*i</string>
+    <string name="hard_level_hint_5">l**do*</string>
+    <string name="hard_level_hint_6">*al**si*</string>
+    <string name="hard_level_hint_7">m*xi**</string>
+    <string name="hard_level_hint_8">*e* *ea*an*</string>
+    <string name="hard_level_hint_9">s*n**po*e</string>
+    <string name="hard_level_hint_10">am**ic*</string>
+
+    <!-- hard question answers -->
+    <string name="hard_level_answer_1">japan</string>
+    <string name="hard_level_answer_2">brazil</string>
+    <string name="hard_level_answer_3">china</string>
+    <string name="hard_level_answer_4">hawaii</string>
+    <string name="hard_level_answer_5">london</string>
+    <string name="hard_level_answer_6">malaysia</string>
+    <string name="hard_level_answer_7">mexico</string>
+    <string name="hard_level_answer_8">new zealand</string>
+    <string name="hard_level_answer_9">singapore</string>
+    <string name="hard_level_answer_10">america</string>
+</resources>
